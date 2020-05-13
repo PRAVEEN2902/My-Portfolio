@@ -1,0 +1,30 @@
+#nav1{
+  background-color: #edffea;
+}
+#home{
+  margin-top: 10%;
+}
+#home1{
+  margin-top: 15%;
+}
+.about{
+  margin-top: 5%;
+  background-color: #ffd3b6;
+}
+.education{
+  margin-top: 10%;
+}
+#about img{
+  margin-left: 45%;
+  margin-right: auto;
+}
+#certificate{
+  margin-top: 5%;
+}
+#skills{
+  margin-top: 5%;
+  background-color: #f8fab8;
+}
+#projects{
+  margin-top: 2%;
+}
