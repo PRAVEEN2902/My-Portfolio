@@ -1,0 +1,77 @@
+#nav1{
+  background-color: #edffea;
+
+}
+#home{
+  margin-top: 8%;
+}
+#home1{
+  margin-top: 15%;
+}
+.about{
+  margin-top: 5%;
+  background-color: #ffd3b6;
+}
+.education{
+  margin-top: 10%;
+}
+#about img{
+  margin-left: 45%;
+  margin-right: auto;
+}
+.navbar-brand{
+    font-family: 'Acme', sans-serif;
+}
+.nav-item{
+    font-family: 'Acme', sans-serif;
+}
+#certificate{
+  margin-top: 5%;
+}
+h2{
+  font-family: 'Acme', sans-serif;
+}
+#about p{
+  font-family: 'Acme', sans-serif;
+font-family: 'Arapey', serif;
+font-family: 'Open Sans', sans-serif;
+}
+#projects p{
+  font-family: 'Acme', sans-serif;
+font-family: 'Arapey', serif;
+font-family: 'Open Sans', sans-serif;
+}
+#edu p{
+  font-family: 'Acme', sans-serif;
+font-family: 'Arapey', serif;
+font-family: 'Open Sans', sans-serif;
+}
+#skills p{
+  font-family: 'Acme', sans-serif;
+font-family: 'Arapey', serif;
+font-family: 'Open Sans', sans-serif;
+}
+#skills{
+  margin-top: 5%;
+  background-color: #f8fab8;
+}
+#projects{
+  margin-top: 2%;
+}
+#connect {
+  margin-top: 5%;
+}
+.base{
+  margin-top: 5%;
+  background-color: #eae7d9;
+}
+#f1{
+  margin-top: 3%
+
+}
+#f1 a{
+  color: black;
+}
+#f2{
+  margin-top: 1%
+}
